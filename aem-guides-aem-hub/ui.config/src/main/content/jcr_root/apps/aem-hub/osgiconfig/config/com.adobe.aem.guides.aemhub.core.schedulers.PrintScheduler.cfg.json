@@ -1,0 +1,7 @@
+{
+    "scheduler_name" : "AEM Hub Sample Print Scheduler",
+    "scheduler_expression" : "*/10 * * * * ?",
+    "enable_scheduler" : true,
+    "concurrent_scheduler": false,
+    "customProperty" : "Neon"
+}

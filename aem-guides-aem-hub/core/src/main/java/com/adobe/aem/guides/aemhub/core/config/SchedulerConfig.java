@@ -38,5 +38,5 @@ public @interface SchedulerConfig {
         name = "Custom Property",
         description = "Custom Property",
         type = AttributeType.STRING)
-    String customProperty() default "Test";
+    String customProperty() default "Neo";
 }
